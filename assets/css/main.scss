@@ -20,7 +20,7 @@ h1 {
 p {
 	font-size: 1em;
 	line-height: 150%;
-	margin-bottom: 1.25em;
+	padding-bottom: 1.25em;
 }
 a {
   color: $color-link;
@@ -94,6 +94,7 @@ ul {
 
 .headshot {
 	margin: auto;
+	padding-bottom: 50px;
 }
 
 .music {
