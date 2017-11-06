@@ -7,7 +7,7 @@
 
 body {
 	color: $color-white;
-	background: $color-blue;
+	background: $color-primary;
 	font-family: 'Roboto';
 	font-size: 100%;
 	font-weight: 400;
@@ -159,7 +159,7 @@ ul {
 			padding-bottom: 1px;
 			border-bottom: 1px solid $color-link;
 			&:hover {
-				background-color: $color-grey;
+				background-color: $color-primary-dark;
 				text-decoration: none;
 			}
 		}
@@ -198,7 +198,7 @@ ul {
 			padding: 3px;
 			font-size: 0.9em;
 			border-radius: 3px;
-			background: $color-grey;
+			background: $color-primary-dark;
 		}
 		.highlight {
 			margin: 10px;
